@@ -1,8 +1,8 @@
-# ReviewInsightAI
+# T5TransformerReviewAI
 
 ## 📌 Project Overview
 
-ReviewInsightAI is an advanced NLP solution that harnesses the power of transformer models to automatically distill thousands of e-commerce product reviews into actionable insights. In today's digital marketplace, consumers are overwhelmed by information overload when shopping online. This intelligent system cuts through the noise by leveraging state-of-the-art transformer architectures to extract key sentiments, highlight product strengths and weaknesses, and deliver concise summaries that empower smarter purchasing decisions.
+This is an advanced NLP solution that harnesses the power of transformer models to automatically distill thousands of e-commerce product reviews into actionable insights. In today's digital marketplace, consumers are overwhelmed by information overload when shopping online. This intelligent system cuts through the noise by leveraging state-of-the-art transformer architectures to extract key sentiments, highlight product strengths and weaknesses, and deliver concise summaries that empower smarter purchasing decisions.
 
 ## 🔧 Technical Architecture
 
@@ -68,4 +68,3 @@ Modern e-commerce ecosystems generate unprecedented volumes of user-generated co
 - Enhancing e-commerce user experience through artificial intelligence augmentation
 
 
-![Uploading image.png…]()
